@@ -17,6 +17,8 @@ ball_y = 60
 vx = 1
 vy = 1
 
+
+
 pad_count=0
 ball_color=10
 pad_color=7
